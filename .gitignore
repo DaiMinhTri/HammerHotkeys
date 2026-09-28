@@ -1,0 +1,6 @@
+bin/
+obj/
+publish/
+*.zip
+environment.props
+HammerHotkeys 1.1.0.dll

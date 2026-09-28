@@ -1,0 +1,9 @@
+{
+    "name": "HammerHotkeys",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Bind keys to build pieces and stations: press a key to equip the hammer and select the piece instantly, without opening the build menu.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+    ]
+}
