@@ -3,7 +3,7 @@
 
 # HammerHotkeys
 
-A Valheim mod that binds keys to build pieces and stations. Press a key and the hammer is equipped and the bound piece is selected for you - the placement ghost appears immediately, without opening the build menu. Especially useful for emergency situations, when you urgently need to place a workbench to start raising ground to save yourself from wolves or fulings, or when you need to quickly place a portal, then a chest, and drop the metals to escape back to the base.
+A Valheim mod that binds keys to build pieces and stations. Press a key and the hammer is equipped and the bound piece is selected for you - the placement ghost appears immediately, without opening the build menu. Especially useful for emergency situations, when you urgently need to place a workbench to start raising ground to save yourself from wolves or fulings, or when you need to quickly place a portal, then escape back to the base.
 
 Client-side only. Works in single player and multiplayer, no server install needed.
 
