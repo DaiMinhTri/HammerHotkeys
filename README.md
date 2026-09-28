@@ -1,3 +1,6 @@
+> **Disclaimer:**
+> Most of mods I work with are some old and outdated ones that their authors haven't updated so far to match 1.0. I am not a professional modder myself, but I am good with coding and gaming. If you experience any problems with the mods I published, you can find me in <a href="https://discord.com/channels/1522110224947871817/1522118606937133136">Hexium</a> discord server by typing DMT.
+
 # HammerHotkeys
 
 A Valheim mod that binds keys to build pieces and stations. Press a key and the hammer is equipped and the bound piece is selected for you - the placement ghost appears immediately, without opening the build menu. Especially useful for emergency situations, when you urgently need to place a workbench to start raising ground to save yourself from wolves or fulings, or when you need to quickly place a portal, then a chest, and drop the metals to escape back to the base.
